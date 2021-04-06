@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1.6em;
+    font-weight: 500;
+    color: red;
+    background-color: silver;
+}
+
+nav{
+    margin: 0 auto;
+    margin-top: 50px;
+    color: blueviolet;
+    width: 50%;
+    text-align: center;
+
+}
+
+fieldset{
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 3px blueviolet dashed;
+    border-radius: 15px;
+    width: 50%;
+    text-align: center;
+}
+
+legend{
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+h2{
+    color: blue;
+}
+
+input{
+    width: 40%;
+    height: 25px;
+    background-color: aquamarine;
+    font-size: 1em;
+    font-weight: 500;
+    color: blue;
+}
+
+input[type="submit"]{
+    width: 57%;
+    height: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: antiquewhite;
+    font-size: 1em;
+    font-weight: 500;
+}
